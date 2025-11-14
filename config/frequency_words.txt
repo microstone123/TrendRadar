@@ -3,6 +3,7 @@ DeepSeek
 GPT
 Gemini
 谷歌
+geo
 公牛插座
 公牛集团
 华为
